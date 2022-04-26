@@ -435,3 +435,5 @@ D:\Bulkybook\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
 D:\Bulkybook\BulkyBook\BulkyBook\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
 D:\Bulkybook\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
 D:\Bulkybook\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+D:\Bulkybook\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+D:\Bulkybook\BulkyBook\BulkyBook\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
