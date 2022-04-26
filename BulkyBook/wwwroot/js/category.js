@@ -1,10 +1,9 @@
-﻿var dataTble;
-$(document).ready(function ()
-{
+﻿var dataTable;
+
+$(document).ready(function () {
     loadDataTable();
-
-
 });
+
 
 function loadDataTable() {
     dataTable = $('#tblData').DataTable({

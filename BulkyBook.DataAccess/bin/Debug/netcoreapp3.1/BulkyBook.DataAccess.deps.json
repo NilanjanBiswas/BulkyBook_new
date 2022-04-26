@@ -900,11 +900,17 @@
         }
       },
       "BulkyBook.Models/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.0.123"
+        },
         "runtime": {
           "BulkyBook.Models.dll": {}
         }
       },
       "BulkyBook.Utility/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.0.123"
+        },
         "runtime": {
           "BulkyBook.Utility.dll": {}
         }

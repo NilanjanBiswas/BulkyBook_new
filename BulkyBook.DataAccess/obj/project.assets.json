@@ -1323,6 +1323,9 @@
       "BulkyBook.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Dapper": "2.0.123"
+        },
         "compile": {
           "bin/placeholder/BulkyBook.Models.dll": {}
         },
@@ -1333,6 +1336,9 @@
       "BulkyBook.Utility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Dapper": "2.0.123"
+        },
         "compile": {
           "bin/placeholder/BulkyBook.Utility.dll": {}
         },

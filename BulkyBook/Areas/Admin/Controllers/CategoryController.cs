@@ -1,5 +1,4 @@
 ﻿using BulkyBook.DataAccess.Repository.IRepository;
-
 using BulkyBook.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -12,7 +11,9 @@ namespace BulkyBook.Areas.Admin.Controllers
     [Area("Admin")]
     public class CategoryController : Controller
     {
-        private readonly IUnitOfWork _unitOfWork; 
+        
+
+        private readonly IUnitOfWork _unitOfWork;
         public CategoryController(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
@@ -23,7 +24,7 @@ namespace BulkyBook.Areas.Admin.Controllers
             return View();
         }
 
-        public IActionResult Upsert (int? id)
+        public IActionResult Upsert(int? id)
         {
             Category category = new Category();
             if (id == null)
